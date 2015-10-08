@@ -1,8 +1,4 @@
 .project
 .settings
 .classpath
-order-service-model/bin/
-order-service-engine-ri/bin/
-order-fulfillment-engine-ri/bin/
-order-fulfillment-library/bin/
-order-service-library/bin/
+/target/
